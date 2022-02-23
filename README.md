@@ -1,6 +1,9 @@
-## Cosme Sousa
+## Cosme Sousa 
+<body onscroll=alert(1)><div style=height:1000px></div><div id=x></div>
+
+
+
 <div align="center">
-  <javascript:prompt(document.cookie)>
 
   <a href="https://github.com/Cosmess">
  
@@ -19,3 +22,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
