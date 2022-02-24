@@ -1,7 +1,5 @@
 ## Cosme Sousa Web Developer
-
-<svg><animate onend=alert(1) attributeName=x dur=1s>
-  <svg><animate onrepeat=alert(1) attributeName=x dur=1s repeatCount=2 />
+<svg><path><animateMotion onbegin=alert(1) dur="1s" repeatCount="1">
 
 <div align="center">
 
