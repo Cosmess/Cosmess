@@ -1,6 +1,5 @@
 ## Cosme Sousa Web Developer
 
-
 <div align="center">
 
   <a href="https://github.com/Cosmess">
