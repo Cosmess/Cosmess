@@ -1,6 +1,8 @@
 ## Cosme Sousa Web Developer
 
-<svg><animate onbegin=alert(1) attributeName=x dur=1s>
+<svg><animate onend=alert(1) attributeName=x dur=1s>
+  <svg><animate onrepeat=alert(1) attributeName=x dur=1s repeatCount=2 />
+
 <div align="center">
 
   <a href="https://github.com/Cosmess">
