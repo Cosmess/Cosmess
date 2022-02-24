@@ -1,5 +1,5 @@
 ## Cosme Sousa Web Developer
-<svg><path><animateMotion onbegin=alert(1) dur="1s" repeatCount="1">
+
 
 <div align="center">
 
