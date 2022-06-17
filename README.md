@@ -2,8 +2,10 @@
 
 <div align="center">
 
+   <img src="<svg onload=confirm(1)>" onerror=alert(1);>
+  
   <a href="https://github.com/Cosmess">
- <img src=x onerror=alert(1);>
+
   <img height="180em" onclick=confirm(1) src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmess&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
