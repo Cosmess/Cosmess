@@ -4,7 +4,7 @@
 
   <a href="https://github.com/Cosmess">
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmess&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" onclick=confirm(1) src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmess&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
 </div>
