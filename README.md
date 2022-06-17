@@ -1,8 +1,7 @@
 ## Cosme Sousa Web Developer
 
 <div align="center">
-
-   <img src="<svg onload=confirm(1)>" onerror=alert(1);>
+  
   
   <a href="https://github.com/Cosmess">
 
@@ -10,7 +9,9 @@
 </div>
 <div style="display: inline_block"><br>
 </div>
-  
+   
+   
+   <img src=x onerror=alert(1);>
   ##
  
 <div align="center"> 
