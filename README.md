@@ -19,3 +19,4 @@
   <a href="https://medium.com/@cosmesousa17" target="_blank"><img src="https://img.shields.io/badge/-medium-708090?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 <svg onload=confirm(1)>
+ <a href = "mailto:javascript.alert(1)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
