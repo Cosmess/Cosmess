@@ -2,12 +2,10 @@
 
 
 <div align="center">
-  
-    
-  <a href="[onc=confirm(1)](https://github.com/settings/profile)">
+ 
 
-  <img height="180em"  on=confirm(1) src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmess&layout=compact&langs_count=7&theme=dark"/>
-    <a href="[onc=confirm(1)](https://github.com/settings/profile)">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmess&layout=compact&langs_count=7&theme=dark"/>
+    <a href="https://github.com/settings/profile">
 </div>
 <div style="display: inline_block"><br>
 </div>
