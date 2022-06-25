@@ -4,9 +4,10 @@
 <div align="center">
   
     
-  <a  onc=confirm(1) href="https://github.com/Cosmess">
+  <a href="onc=confirm(1)">
 
-  <img height="180em" on=confirm(1) src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmess&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em"  on=confirm(1) src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmess&layout=compact&langs_count=7&theme=dark"/>
+    <a href="onc=confirm(1)">
 </div>
 <div style="display: inline_block"><br>
 </div>
