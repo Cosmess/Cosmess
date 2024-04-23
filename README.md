@@ -1,4 +1,4 @@
-## Cosme Sousa Web Developer
+## Cosme Sousa
 
 
 <div align="center">
